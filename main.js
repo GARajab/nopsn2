@@ -21,7 +21,7 @@ const payloads = [
     { name: "rif-renamer.bin", desc: "Renames license files", sizeKB: 8.2 },
     { name: "ftpsrv-ps4.bin", desc: "High Speed FTP Server PS4", sizeKB: 147 },
     { name: "ftpsrv-ps5.bin", desc: "High Speed FTP Server PS5", sizeKB: 209 },
-    { name: "noPSN.elf", desc: "Test LB Game", sizeKB: test },
+    { name: "noPSN.elf", desc: "Test LB Game", sizeKB: 1 }
     
 ];
 
